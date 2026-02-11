@@ -1,0 +1,26 @@
+/* Standard Version */
+@font-face {
+    font-family: 'Avallon';
+    src: url('https://cdn.jsdelivr.net/gh/mohamed-untap/avallon@main/Avallon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Alternate Version */
+@font-face {
+    font-family: 'Avallon Alt';
+    src: url('https://cdn.jsdelivr.net/gh/mohamed-untap/avallon@main/Avallon%20Alt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* All Caps Version */
+@font-face {
+    font-family: 'Avallon Caps';
+    src: url('https://cdn.jsdelivr.net/gh/mohamed-untap/avallon@main/Avallon%20All%20Caps.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
